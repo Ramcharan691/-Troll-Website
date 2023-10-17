@@ -1,0 +1,25 @@
+h1{
+    font-size: xx-large;
+    font-family: "press Start 2P";
+    text-align: center;
+    text-shadow: 0px 5px 0px gray;
+}
+body{
+    background-image: url(/images/Color-Pride-Flag.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+span{
+    border: 5px solid;
+    border-radius: 5px;
+    background-color: lightgray;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px
+}
+button:hover{
+    background-color: lightgray;
+}
